@@ -1,2 +1,2 @@
-![BioPic](bioPic.jpg)
+![BioPic](20210224124509_IMG_0343.JPG)
 #Bio:
