@@ -4,7 +4,7 @@ title: PORTFOLIO
 # The Sounds Of Marvel
 <iframe src="https://drive.google.com/file/d/1LPucoZdP9JHq1PVFieB-ATvwAeYvDoZ3/preview" width="640" height="480"></iframe>
 ### About:
-
+This piece was Jean's latest work and uses foley and voice lines to create the music you hear.
 # Maya Deren plays Wintergaten
 <iframe src="https://drive.google.com/file/d/11bwWX9afKQDSk6nYF-aWfLIsNBsCgcel/preview" width="640" height="480"></iframe>
 ### About:
