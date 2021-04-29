@@ -1,6 +1,6 @@
 theme: minima
 title: JEAN ECKELBERG
-author: <a href="https://soundcloud.com/titaneproductions">SoundCloud</a>
+author: [SoundCloud](https://soundcloud.com/titaneproductions)
 header_pages:
  - index.md
  - about.md
