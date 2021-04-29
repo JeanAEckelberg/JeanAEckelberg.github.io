@@ -1,7 +1,3 @@
----
-layout: page
-title: HOME
----
 
 ## Welcome to GitHub Pages
 
