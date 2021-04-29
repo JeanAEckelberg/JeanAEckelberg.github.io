@@ -1,3 +1,7 @@
+---
+title: ABOUT
+---
+
 ![BioPic](20210224124509_IMG_0343.JPG)
 # Bio:
 Jean Eckelberg is a hard worker fueled by her raging passion and unwavering determination. Jean works to create a world where people can express and share their ideas without fear of retaliation. She does this by creating narratives that challenge those who consume her content to open their minds to other perspectives and explore the duality in human nature. Her end goal is to create engaging content that helps people see the world from beyond their own personal experiences.
