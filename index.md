@@ -1,5 +1,6 @@
 ---
 title: HOME
+layout: home
 ---
 
 ## The Sound of Marvel
