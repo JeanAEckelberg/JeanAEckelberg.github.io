@@ -1,5 +1,2 @@
----
-title: ABOUT
----
-
-ABOUT ME
+![BioPic](bioPic.jpg)
+#Bio:
