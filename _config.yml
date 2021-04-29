@@ -1,2 +1,11 @@
 theme: minima
 title: JEAN ECKELBERG
+
+header_pages:
+ - index.md
+ - about.md
+ - portfolio.md
+ - contact.md
+ 
+ linkedin: jean-eckelberg-943025172
+ soundcloud: titaneproductions
