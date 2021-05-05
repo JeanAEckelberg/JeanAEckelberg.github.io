@@ -1,7 +1,7 @@
 ---
 title: PORTFOLIO
 ---
-#Video Editing:
+# Video Editing:
 ## The Sounds Of Marvel
 <iframe src="https://drive.google.com/file/d/1LPucoZdP9JHq1PVFieB-ATvwAeYvDoZ3/preview" width="100%" height="480"></iframe>
 ### About:
@@ -10,7 +10,7 @@ This piece was Jean's latest work and uses foley and voice lines from the attach
 <iframe src="https://drive.google.com/file/d/11bwWX9afKQDSk6nYF-aWfLIsNBsCgcel/preview" width="100%" height="480"></iframe>
 ### About:
 In this piece, Maya Deren in "Meshes of the Afternoon" is paired up with  Wintergaten's "Biking is Better" to create an overall marvel.
-#Sound Design
+# Sound Design
 ## 24 Hour Challenge
 <iframe src="https://drive.google.com/file/d/1tMjJrKlxcsjSCMUSPgbR9eshN_nqyrZR/preview" width="100%" height="480"></iframe>
 ### About:
