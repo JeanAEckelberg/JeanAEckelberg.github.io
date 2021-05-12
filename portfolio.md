@@ -6,10 +6,10 @@ title: PORTFOLIO
 <iframe src="https://drive.google.com/file/d/1LPucoZdP9JHq1PVFieB-ATvwAeYvDoZ3/preview" width="100%" height="480"></iframe>
 ### About:
 This piece was Jean's latest work and uses foley and voice lines from the attached video to create the music you hear.
-# Maya Deren plays Wintergaten
+# Maya Deren plays Wintergatan
 <iframe src="https://drive.google.com/file/d/11bwWX9afKQDSk6nYF-aWfLIsNBsCgcel/preview" width="100%" height="480"></iframe>
 ### About:
-In this piece, Maya Deren in "Meshes of the Afternoon" is paired up with  Wintergaten's "Biking is Better" to create an overall marvel.
+In this piece, Maya Deren in "Meshes of the Afternoon" is paired up with  Wintergatan's "Biking is Better" to create an overall marvel.
 ## Sound Design
 # 24 Hour Challenge
 <iframe src="https://drive.google.com/file/d/1tMjJrKlxcsjSCMUSPgbR9eshN_nqyrZR/preview" width="100%" height="480"></iframe>
@@ -19,10 +19,10 @@ Jean showcases her excellent sound design abilities in this piece that just rock
 <iframe src="https://drive.google.com/file/d/1cPDkkjJ7rWoBuHjv4LMa1XsO3I63Xl1U/preview" width="100%" height="480"></iframe>
 ### About:
 In this stop motion of a robot putting itself together, Jean once again shows her sound design abilities with only a limited selection of sounds.
-# Dinosuar of the New Age
+# Dinosaur of the New Age
 <iframe src="https://drive.google.com/file/d/1drZW5Xiv7TOy3TM2A0Zy9CigsTbqgF5i/preview" width="100%" height="480"></iframe>
 ### About:
-This piece speaks about the destuctive power of industry. Jean's sound design on this piece showcases her flexibility, usind many effects to accurately place the sounds you hear
+This piece speaks about the destructive power of industry. Jean's sound design on this piece showcases her flexibility, using many effects to accurately place the sounds you hear.
 # Electricity
 <iframe src="https://drive.google.com/file/d/1u4ZXpQFD6w8Bcy55ahAmYp3YqxH6eYn-/preview" width="100%" height="480"></iframe>
 ### About:
